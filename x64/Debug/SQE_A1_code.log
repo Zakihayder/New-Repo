@@ -1,0 +1,10 @@
+﻿  Algo_A3.cpp
+C:\Users\zakih\OneDrive\Desktop\SQE_A1_code\Algo_A3.cpp(97,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\zakih\OneDrive\Desktop\SQE_A1_code\Algo_A3.cpp(134,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\zakih\OneDrive\Desktop\SQE_A1_code\Algo_A3.cpp(150,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\zakih\OneDrive\Desktop\SQE_A1_code\Algo_A3.cpp(173,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\zakih\OneDrive\Desktop\SQE_A1_code\Algo_A3.cpp(181,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\zakih\OneDrive\Desktop\SQE_A1_code\Algo_A3.cpp(204,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\zakih\OneDrive\Desktop\SQE_A1_code\Algo_A3.cpp(224,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\zakih\OneDrive\Desktop\SQE_A1_code\Algo_A3.cpp(443,42): warning C4101: 'e': unreferenced local variable
+  SQE_A1_code.vcxproj -> C:\Users\zakih\OneDrive\Desktop\SQE_A1_code\x64\Debug\SQE_A1_code.exe
